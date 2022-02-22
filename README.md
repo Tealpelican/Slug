@@ -1,2 +1,2 @@
-# Slug
+# Slug!
 Slug! Stack based programming language
